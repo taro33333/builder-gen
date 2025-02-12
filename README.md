@@ -4,4 +4,4 @@ Goの構造体からBuilderパターンのコードを自動生成するツー�
 
 ## インストール
 ```sh
-go install github.com/your-username/go-builder-gen@latest
+go install github.com/taro33333/go-builder-gen@latest
